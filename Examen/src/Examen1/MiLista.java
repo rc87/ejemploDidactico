@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class MiLista extends ArrayList<String> 
 {
-	private ArrayList<Integer> posicion = new ArrayList<Integer>();
+	private ArrayList<Integer> posicion =   new ArrayList<Integer>();
 	public MiLista()
 	{
 		super();
