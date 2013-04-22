@@ -15,7 +15,7 @@ public class MiLista extends ArrayList<String>
 		for (int i = 0; i < datos.length; i++)
 		{
 			super.add(datos[i] + "");
-			posicion.add(size() - 1);			
+			posicion.add(size()-1);			
 		}
 	}
 	public MiLista(String[] datos)
